@@ -1,6 +1,6 @@
 👋 Hi, I’m @Chaugummi 👋
 
-A cs student from the Switzerland.
+A BSc Computer Sciences student at FHNW stationed in Switzerland.
 
 I'm interested in mobile development and web technologies. 
 Currently i'm improving my REACT skills =)
